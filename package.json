@@ -1,0 +1,14 @@
+{
+  "name": "aliyun-go-event-test",
+  "version": "1.0.0",
+  "description": "Aliyun event function example using golang",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wsw0108",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-aliyun-function-compute": "*"
+  }
+}
